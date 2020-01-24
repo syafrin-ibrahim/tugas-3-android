@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pengajuan3</string>
+    <string name="name_movie">Film</string>
+    <string name="desc_movie">Deskripsi</string>
+    <string name="tab_text_1">Film</string>
+    <string name="tab_text_2">Siaran Tv</string>
+    <string name="title">Pengajuan3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello fragment Kosong</string>
+    <string name="search">Pencarian</string>
+    <string name="change_language_settings">pengaturan ubah bahasa</string>
+    <string name="search_title">Cari Sebuah Judul</string>
+</resources>
